@@ -4,7 +4,7 @@
 :bulb: This template is used for monthly investor updates to your investors and key stakeholders.
 :::
 
-## :triangular_flag_on_post: Summary
+## :triangular_flag_on_post 
 
 :::success
 Describe the updating things in a brief sentence.
@@ -28,7 +28,8 @@ Update all the key metrics, highlights, and challenges.
 
 ## 👎 Lows and Challenges
 
-1.
+1
+https://github.com/fastapi/full-stack-fastapi-template/tree/bba8d07c0cb4ac0e38a99d1de38090048fab8dee/.copierhttps://business.facebook.com/latest/settings/properties/?business_id=875543827390286&nav_ref=bizweb_settings_asset_linkout&selected_asset_id=1338696091360092&selected_asset_type=monetization-propertyhttps://business.facebook.com/latest/settings/properties/?business_id=875543827390286&nav_ref=bizweb_settings_asset_linkout&selected_asset_id=1338696091360092&selected_asset_type=monetization-propertyhttps://business.facebook.com/latest/anawey42/properties/?business_id=875543827390286&nav_ref=bizweb_settings_asset_linkout&selected_asset_id=1338696091360092&selected_asset_type=monetization-property
 2.
 
 ## :dart: Expectation
